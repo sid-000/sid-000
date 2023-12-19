@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sid
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Science/ML/AI
 - 🌱 I’m currently Pursuing Masters in Computer Science with an emphasis on Data Science 
 - 💞️ I’m looking to collaborate on Data Scientist related jobs
 - 📫 How to reach me ...
