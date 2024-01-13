@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sid
+- 👋 Hi, I’m @Gautham
 - 👀 I’m interested in Data Science/ML/AI
 - 🌱 I’m currently Pursuing Masters in Computer Science with an emphasis on Data Science 
 - 💞️ I’m looking to collaborate on Data Scientist related jobs
